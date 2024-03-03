@@ -26,3 +26,12 @@
     max-width: 800px;
 
 }
+.hero-txt h1{
+    font-size: 60px;
+    font-weight: 600;
+}
+.hero-txt p{
+    max-width: 700px;
+    margin: 10px auto 20px;
+    line-height: 1.4;
+}
