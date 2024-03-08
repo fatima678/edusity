@@ -1,7 +1,7 @@
 nav{
     width: 100%;
-    /* background: #212EA0; */
-    background: grey;
+    background: #212EA0;
+    
     color: white;
     padding: 4px 0;
     position: fixed;
