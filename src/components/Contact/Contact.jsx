@@ -11,7 +11,7 @@ const Contact = () => {
         <div className="contact-col">
             <h3>Send us a message<img src={msg_icon} alt=''></img></h3>
             <p>Feel free to contact us for any query , your suggestions and feedback are very
-                important for us
+                important for us please send us the email f you have any query.
             </p>
             <ul>
                 <li><img src={mail_icon} alt=''></img>abc@gmail.com</li>
