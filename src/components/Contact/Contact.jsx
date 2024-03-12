@@ -30,6 +30,7 @@ const Contact = () => {
                 <button type='submit'   className='btn dark-btn'>Submit now<img src={white_arrow} alt=''></img></button>
 
             </form>
+            <span></span>
 
         </div>
       
