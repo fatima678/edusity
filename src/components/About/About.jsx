@@ -21,8 +21,7 @@ const About = () => {
             skills, and perspectives necessary to navigate an
              increasingly complex world. </p>
              <p>Education is the cornerstone of personal and societal growth, providing individuals with the knowledge, 
-            skills, and perspectives necessary to navigate an
-             increasingly complex world. </p>
+            skills </p>
        
 
 
